@@ -42,8 +42,11 @@ Welcome to my GitHub profile! Passionate about **software engineering, artificia
 
 ## 📊 GitHub Stats  
 
-![Assil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=assilhammami&show_icons=true&theme=radical&count_private=true&hide=prs)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assilhammami&layout=compact&theme=radical)  
+![Assil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=assilhammami&show_icons=true&count_private=true&theme=radical&hide=prs)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assilhammami&layout=donut&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=assilhammami&theme=radical)  
 
 ---
 
@@ -57,7 +60,7 @@ Welcome to my GitHub profile! Passionate about **software engineering, artificia
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assil-hammami/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonmail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammami-assil-281ba4220)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:assilhammami36@gmail.com)  
 
 ---
