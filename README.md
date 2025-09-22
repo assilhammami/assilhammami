@@ -46,7 +46,6 @@ Welcome to my GitHub profile! Passionate about **software engineering, artificia
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assilhammami&layout=donut&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=assilhammami&theme=radical)  
 
 ---
 
